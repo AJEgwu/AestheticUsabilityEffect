@@ -3,7 +3,7 @@ import { useState, useEffect, useRef } from "react";
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // CONFIGURATION
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-const GOOGLE_SCRIPT_URL = "PASTE_YOUR_GOOGLE_APPS_SCRIPT_URL_HERE";
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwmQoD_76YXNX7GWshJxeQA6tdbJuN8f6HW8eLOnwHcJVoBUSh5PxPnmAaQ2kA-pyGG/exec";
 
 // ── Toggle: Allow passage review on Q5 for Group A ──
 const ALLOW_PASSAGE_REVIEW = false;
